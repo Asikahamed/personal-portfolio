@@ -178,3 +178,4 @@ xgboost==1.7.3
 yarl @ file:///Users/ec2-user/ci_py311/yarl_1678323149735/work
 zipp @ file:///Users/ec2-user/ci_py311/zipp_1678318061389/work
 zstandard @ file:///Users/ec2-user/ci_py311_2/zstandard_1679338593428/work
+file:///Users/ec2-user/ci_py311/aiohttp_1678323186748/work
